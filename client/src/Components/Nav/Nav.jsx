@@ -12,7 +12,7 @@ const Nav = () => {
       <div className=" mx-auto px-4 py-3 md:flex md:justify-between md:items-center">
         <div className="flex items-center justify-between ">
           <div className="flex items-center cursor-none">
-            <img src="/logo.png" alt="Logo" className="h-12 w-auto" />
+            <img src="/public/logo.png" alt="Logo" className="h-12 w-auto" />
             <h3 className="text-xl font-bold">SACHIN UPADHYAY</h3>
           </div>
           <button
